@@ -1,0 +1,13 @@
+Back-end:
+1. Run sql script first
+2. cd to */study_buddy_backend folder
+3. Run: mvn spring-boot:run
+4. user login:
+- student: student01@gmail.com/test1234
+- tutor: tutor01@gmail.com/test1234
+
+Front-end:
+1. cd to */study_buddy_frontend folder
+2. Run: 
+- Install all packages: yarn install
+- Run project: yarn start
